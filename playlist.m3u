@@ -11,7 +11,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227215/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" group-title="央视",CCTV5
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227218/index.m3u8
-#EXTINF:-1 tvg-id="6 tvg-name="CCTV5plus" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5plus" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5plus.png" group-title="央视",CCTV5+
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV6.png" group-title="央视",CCTV6
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227221/index.m3u8
@@ -49,7 +49,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8
 #EXTINF:-1 tvg-id="278" tvg-name="辽宁教育青少" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning3.png" group-title="辽宁",辽宁教育青少
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
-#EXTINF:-1 tvg-id="280 tvg-name="辽宁经济" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning7.png" group-title="辽宁",辽宁经济
+#EXTINF:-1 tvg-id="280" tvg-name="辽宁经济" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning7.png" group-title="辽宁",辽宁经济
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8
 #EXTINF:-1 tvg-id="279" tvg-name="辽宁生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning4.png" group-title="辽宁",辽宁生活
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8
