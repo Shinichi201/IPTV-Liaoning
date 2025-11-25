@@ -161,20 +161,19 @@ rtmp://f13h.mine.nu/sat/tv051
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="443" tvg-name="中视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="其他",中视
 rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-id="CBC News" tvg-name="CBC News" tvg-logo="  " group-title="其他",CBC News
+#EXTINF:-1 tvg-id="CBC News" tvg-name="CBC News" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/CBC%20News.png" group-title="其他",CBC News
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
-#EXTINF:-1 tvg-id="ABC News Live" tvg-name="ABC News Live" tvg-logo="  " group-title="其他",ABC News Live
+#EXTINF:-1 tvg-id="ABC News Live" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/ABC%20News%20Live.png" group-title="其他",ABC News Live
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-#EXTINF:-1 tvg-id="Newsmax" tvg-name="Newsmax" tvg-logo="  " group-title="其他",Newsmax
+#EXTINF:-1 tvg-id="Newsmax" tvg-name="Newsmax" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/Newsmax.png" group-title="其他",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" group-title="其他",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="WionNews" tvg-name="WionNews" tvg-logo="  " group-title="其他",WionNews
+#EXTINF:-1 tvg-id="WionNews" tvg-name="WionNews" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/WION%20news.png" group-title="其他",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-id="Trace Sports" tvg-name="Trace Sports" tvg-logo="  " group-title="其他",Trace Sports
+#EXTINF:-1 tvg-id="Trace Sports" tvg-name="Trace Sports" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/TRACE%20Sports.png" group-title="其他",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="RT News" tvg-name="RT News" tvg-logo="  " group-title="其他",RT News
+#EXTINF:-1 tvg-id="RT News" tvg-name="RT News" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/Russia-today.png" group-title="其他",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="Taiwan Plus" tvg-name="Taiwan Plus" tvg-logo="  " group-title="其他",Taiwan Plus
+#EXTINF:-1 tvg-id="Taiwan Plus" tvg-name="Taiwan Plus" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/TaiwanPlus.png" group-title="其他",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
