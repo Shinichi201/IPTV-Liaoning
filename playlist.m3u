@@ -145,7 +145,7 @@ http://bxtv.3a.ink/api.php?id=wxxw
 http://bxtv.3a.ink/api.php?id=tvbp
 #EXTINF:-1 tvg-id="myTV SUPER" tvg-name="myTV SUPER" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="其他",myTV SUPER
 http://bxtv.3a.ink/api.php?id=qxjd
-#EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogo/myTV%20SUPER%2018%E5%8F%B0.png" group-title="其他",myTV SUPER 18台
+#EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/myTV%20SUPER%2018%E5%8F%B0.png" group-title="其他",myTV SUPER 18台
 http://bxtv.3a.ink/api.php?id=18
 #EXTINF:-1 tvg-id="559" tvg-name="PopC" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/PopC.png" group-title="其他",PopC
 http://bxtv.3a.ink/api.php?id=popc
