@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://vip.erw.cc/e.xml.gz?k=密钥" catchup="append" catchup-days="7" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
 
-#央视/18个频道
+#央视
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV1
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视",CCTV2
@@ -38,7 +38,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="央视",CCTV17
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226841/index.m3u8
 
-#辽宁/9个频道
+#辽宁
 #EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning.png" group-title="辽宁",辽宁卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
 #EXTINF:-1 tvg-id="281" tvg-name="辽宁都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning1.png" group-title="辽宁",辽宁都市
@@ -58,7 +58,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8
 #EXTINF:-1 tvg-id="528" tvg-name="辽宁体育休闲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Liaoning6.png" group-title="辽宁",辽宁体育休闲
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
 
-#卫视/23个频道
+#卫视
 #EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Chongqing.png" group-title="卫视",重庆卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226737/index.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan.png" group-title="卫视",四川卫视
@@ -106,7 +106,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226791/index.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangxi.png" group-title="卫视",广西卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226830/index.m3u8
 
-#付费/6个频道
+#付费
 #EXTINF:-1 tvg-id="136" tvg-name="北京纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="付费",北京纪实科教
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226730/index.m3u8
 #EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan9.png" group-title="付费",金鹰纪实
@@ -120,14 +120,16 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
 #EXTINF:-1 tvg-id="182" tvg-name="CHC影迷电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC1.png" group-title="付费",CHC影迷电影
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
 
-#其他/1个频道
+#其他
+#EXTINF:-1 tvg-id="25" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png" group-title="其他",CGTN
+http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="CGTN纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="其他",CGTN纪录
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="其他",CCTV4K
 http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
-
-#国际频道/3个频道
-#EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="国际时事",凤凰中文
+#EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="其他",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="国际时事",凤凰资讯
+#EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="其他",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="国际时事",凤凰香港
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="其他",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
