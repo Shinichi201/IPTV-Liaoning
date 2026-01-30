@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://vip.erw.cc/e.xml.gz?k=密钥" catchup="append" catchup-days="7" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
+#EXTM3U x-tvg-url="https://vip.erw.cc/e.xml"
 
 #央视
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV1
