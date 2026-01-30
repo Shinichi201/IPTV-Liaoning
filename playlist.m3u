@@ -130,21 +130,38 @@ http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-id="572" tvg-name="北京IPTV4K超清" tvg-logo="https://pic.erw.cc/epglogo/shuzi/bj4kcq.png" group-title="其他",北京IPTV4K超清
 http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227001/index.m3u8
 #EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="其他",凤凰中文
-http://bxtv.3a.ink/api.php?id=fhzw
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="其他",凤凰资讯
-http://bxtv.3a.ink/api.php?id=fhzx
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#http://r.jdshipin.com/0Rp07
 #EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="其他",凤凰香港
-http://bxtv.3a.ink/api.php?id=fhhk
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#http://r.jdshipin.com/yDoTN
 #EXTINF:-1 tvg-id="凤凰电影" tvg-name="凤凰电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix4.png" group-title="其他",凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="其他",翡翠台
-http://bxtv.3a.ink/api.php?id=fct
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#http://r.jdshipin.com/62WM7
+#http://r.jdshipin.com/qClQf
+#http://r.jdshipin.com/n90gt
+#http://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1 tvg-id="190" tvg-name="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB2.png" group-title="其他",明珠台
-http://bxtv.3a.ink/api.php?id=mz
+http://r.jdshipin.com/ZQ4kN
+#http://r.jdshipin.com/jUx8K
 #EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB4.png" group-title="其他",无线新闻
-http://bxtv.3a.ink/api.php?id=wxxw
+http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="223" tvg-name="TVB Plus" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB5.png" group-title="其他",TVB Plus
-http://bxtv.3a.ink/api.php?id=tvbp
+http://r.jdshipin.com/ndGgS
+#http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 tvg-name="TVB星河" tvg-name="TVB星河" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="其他",TVB星河
+http://r.jdshipin.com/Voac4
+#http://r.jdshipin.com/sXuuD
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/华丽翡翠台.png" group-title="其他",华丽翡翠台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1 tvg-name="ViuTV" tvg-name="ViuTV" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/ViuTV.png" group-title="其他",ViuTV
+http://r.jdshipin.com/TcKr2
+#http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-id="myTV SUPER" tvg-name="myTV SUPER" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB14.png" group-title="其他",myTV SUPER
 http://bxtv.3a.ink/api.php?id=qxjd
 #EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/myTV%20SUPER%2018%E5%8F%B0.png" group-title="其他",myTV SUPER 18台
@@ -157,8 +174,12 @@ http://bxtv.3a.ink/api.php?id=meiya
 http://bxtv.3a.ink/api.php?id=baogu
 #EXTINF:-1 tvg-id="Now爆谷星影台" tvg-name="Now爆谷星影台" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/now5.png" group-title="其他",Now爆谷星影台
 http://bxtv.3a.ink/api.php?id=xingying
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png" group-title="其他",中天新闻
-http://bxtv.3a.ink/api.php?id=ztxw
+#EXTINF:-1 tvg-name="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/澳视澳门.png" group-title="其他",澳视澳门
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
+#http://r.jdshipin.com/n2YZI
+#EXTINF:-1 tvg-name="澳门卫视" tvg-name="澳门卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/澳视卫星.png" group-title="其他",澳门卫视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
+#http://r.jdshipin.com/QFhCq
 #EXTINF:-1 tvg-id="440" tvg-name="台视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="其他",台视
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-id="441" tvg-name="民视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="其他",民视
@@ -167,6 +188,8 @@ rtmp://f13h.mine.nu/sat/tv051
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="443" tvg-name="中视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="其他",中视
 rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Unique1.png" group-title="其他",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 tvg-id="CBC News" tvg-name="CBC News" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/CBC%20News.png" group-title="其他",CBC News
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 tvg-id="ABC News Live" tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/ABC%20News%20Live.png" group-title="其他",ABC News Live
@@ -179,8 +202,6 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="RT News" tvg-name="RT News" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/Russia-today.png" group-title="其他",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="Taiwan Plus" tvg-name="Taiwan Plus" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/TaiwanPlus.png" group-title="其他",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC Japan" tvg-name="QVC Japan" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/QVC%20Japan.png" group-title="其他",QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-id="SHOP CHANNEL" tvg-name="SHOP CHANNEL" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/SHOP%20CHANNEL.png" group-title="其他",SHOP CHANNEL
