@@ -108,8 +108,8 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227625/index.m3u8
 
 #4K超高清
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16 4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png" group-title="4K超高清",CCTV16 4K
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227510/index.m3u8
-#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227709/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227709/index.m3u8
+#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227416/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="4K超高清",CCTV4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227516/index.m3u8
 #http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227623/index.m3u8
