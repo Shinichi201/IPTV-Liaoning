@@ -1,12 +1,5 @@
-{
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/HeBin/playlist_hebin.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ]
-}
+{"urls":[
+{"name":"饭太硬","url":"http://fty.xxooo.cf/tv"},
+{"name":"肥猫","url":"http://肥猫.com"},
+{"name":"饭太硬（备用）","url":"http://fty.888484.xyz/tv"},
+]}
