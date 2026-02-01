@@ -1,9 +1,7 @@
-#EXTM3U x-tvg-url="https://vip.erw.cc/e.xml.gz?k=密钥" catchup="append" catchup-days="7" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
+#EXTM3U url-logos="https://iptv.burningc4.com/tvg-logo/"
 
-
-#央视
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV1
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 
 
 综合,#genre#
