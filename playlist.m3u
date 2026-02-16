@@ -228,8 +228,12 @@ http://cdn.163189.xyz/163189/now
 https://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" group-title="港澳台",澳视澳门
 http://iptv.4666888.xyz/iptv2A.php?id=41
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" group-title="港澳台",澳视澳门
+http://r.jdshipin.com/n2YZI
 #EXTINF:-1 tvg-id="澳视Macau" tvg-name="澳视Macau" group-title="港澳台",澳视Macau
 https://cdn6.163189.xyz/163189/as
+#EXTINF:-1 tvg-id="澳视Macau" tvg-name="澳视Macau" group-title="港澳台",澳视Macau
+http://r.jdshipin.com/QFhCq
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" group-title="港澳台",台视
 http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" group-title="港澳台",台视
