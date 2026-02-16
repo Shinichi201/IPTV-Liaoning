@@ -107,7 +107,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227612/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227625/index.m3u8
 
 #4K超高清
-#EXTINF:-1 tvg-id="CCTV16 4K" tvg-name="CCTV16 4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png.png" group-title="4K超高清",CCTV16 4K
+#EXTINF:-1 tvg-id="CCTV16 4K" tvg-name="CCTV16 4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="4K超高清",CCTV16 4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227709/index.m3u8
 #http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227416/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="4K超高清",CCTV4K
@@ -184,7 +184,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=29
 https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-id="HOYTV" tvg-name="HOYTV" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Hoy77.png" group-title="港澳台",HOYTV
 http://iptv.4666888.xyz/iptv2A.php?id=35
-#EXTINF:-1 tvg-id="HOYTV资讯" tvg-name="HOYTV资讯" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Hoy78.png" group-title="港澳台",HOYTV资讯
+#EXTINF:-1 tvg-id="HOYTV资讯台" tvg-name="HOYTV资讯台" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Hoy78.png" group-title="港澳台",HOYTV资讯台
 http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" group-title="港澳台",RTHK31
 http://cdn.163189.xyz/163189/rthk31
@@ -230,7 +230,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=44
 http://211.72.174.95:8117/0.ts
 
 #东南亚
-#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" group-title="东南亚",TVB Jade
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="东南亚",TVB Jade
 http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 #EXTINF:-1 tvg-id="Astro AOD" tvg-name="Astro AOD" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/Astro_AOD_(2024).png" group-title="东南亚",Astro AOD
 https://o11.163189.xyz/stream/live/aod/
