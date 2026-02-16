@@ -60,12 +60,17 @@ CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.
 CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
 
 港澳台,#genre#
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw#http://iptv.4666888.xyz/iptv2A.php?id=27
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
-明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
+翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct#http://iptv.4666888.xyz/iptv2A.php?id=34#http://r.jdshipin.com/qClQf#https://o11.163189.xyz/stream/tvb/fct/#rtmp://nowast.net/live/yifatv-jade01#http://pull-vivek.speedws.com/live/aaajade.flv
+澳视澳门,https://cdn6.163189.xyz/163189/asam#http://iptv.4666888.xyz/iptv2A.php?id=41#http://r.jdshipin.com/n2YZI
+台视,http://74.91.26.218:82/live/ttv.m3u8#rtmp://f13h.mine.nu/sat/tv071#http://211.72.174.95:8112/0.ts
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55#rtmp://f13h.mine.nu/sat/tv051#http://211.72.174.95:8115/0.ts
+华视,rtmp://f13h.mine.nu/sat/tv111#http://211.72.174.95:8114/0.ts
+中视,rtmp://f13h.mine.nu/sat/tv091#http://211.72.174.95:8113/0.ts
+公视,http://211.72.174.95:8116/0.ts
 
 国际,#genre#
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8#https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8#https://0472.org/hls/cgtnd.m3u8
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw#http://iptv.4666888.xyz/iptv2A.php?id=27#http://r.jdshipin.com/cCCzW
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx#http://r.jdshipin.com/0Rp07
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk#http://r.jdshipin.com/yDoTN
