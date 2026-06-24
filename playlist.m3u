@@ -245,6 +245,8 @@ http://cdn6.163189.xyz/163189/fhhk
 http://tv.groupshare.com.cn/fhtv?id=hk&prefix=86&phone=18972346553&pwd=Sm623008
 #EXTINF:-1 tvg-id="新唐人" tvg-name="新唐人" group-title="国际",新唐人
 https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="新唐人亚太" tvg-name="新唐人亚太" group-title="国际",新唐人亚太
+https://ntd02.akamaized.net/NTDA/index.m3u8
 #EXTINF:-1 tvg-id="RT News" tvg-name="RT News" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/Russia-today.png" group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="ABCNews" tvg-name="ABCNews" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/ABC%20News%20Live.png" group-title="国际",ABC News
