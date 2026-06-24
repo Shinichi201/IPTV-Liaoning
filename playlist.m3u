@@ -99,6 +99,9 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227709/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="4K超高清",CCTV4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227623/index.m3u8
 #http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227516/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="4K超高清",CCTV4K
+http://unicom1.lnitv.cn:8099/rtp/232.0.0.89:8650
+#http://unicom2.lnitv.cn:8089/rtp/232.0.0.167:1234
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" group-title="4K超高清",北京卫视4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227629/index.m3u8
 #http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227656/index.m3u8
@@ -279,11 +282,11 @@ http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="国际",凤凰中文
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="国际",凤凰资讯
+http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R69383AD4U3098A04BK7843FCEEI2F3E2770P2BEFM328D2EBV20A50Z337D9W187F94689DF34BEB&programid=4200000484&playtoken=31611KKXZAMDCOE10&verifycode=2017721582
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="国际",凤凰资讯
 http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="国际",凤凰资讯
 http://r.jdshipin.com/0Rp07
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="国际",凤凰资讯
-http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R69383AD4U3098A04BK7843FCEEI2F3E2770P2BEFM328D2EBV20A50Z337D9W187F94689DF34BEB&programid=4200000484&playtoken=31611KKXZAMDCOE10&verifycode=2017721582
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="国际",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="国际",凤凰香港
