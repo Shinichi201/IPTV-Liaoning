@@ -121,11 +121,11 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227630/index.m3u8
 
 #影视
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="影视",CHC动作电影
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227432/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227724/index.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="影视",CHC家庭影院
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="影视",CHC影迷电影
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.m3u8
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/1905Movie.png" group-title="影视",1905电影网
 http://cctv.sohu.blog/1905.php?t=1&id=LIVEOYY31H24H48NE
 #EXTINF:-1 tvg-id="1905电影网" tvg-name="1905电影网" tvg-logo="https://raw.githubusercontent.com/Shinichi201/IPTV-Liaoning/refs/heads/main/TVlogos/1905Movie.png" group-title="影视",1905电影网
